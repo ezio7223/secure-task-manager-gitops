@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: secure-task-manager
-          image: ezio7223/secure-task-manager:2126dc4
+          image: ezio7223/secure-task-manager:017738a
           imagePullPolicy: Always
 
           ports:
