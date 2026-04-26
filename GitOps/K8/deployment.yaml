@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: secure-task-manager
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       app: secure-task-manager
